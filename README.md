@@ -1,5 +1,5 @@
 # Just-a-Hero-Villain-game-using-pygame
-This game runs with a fps of 27. This game has animation.
+This game runs with a fps of 27. This game has animation. All the supported files are in the assets folder.
 
 
 #### Requirements:
