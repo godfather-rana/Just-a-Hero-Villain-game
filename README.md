@@ -10,6 +10,8 @@ This game runs with a fps of 27. This game has animation.
 
 This is a typical hero villain game in which you have to kill the enemy.
 
+#### Command to run the game:
+--> $ python3 game.py
 
 #### Controls:
 --> Up,left,right,down arrow keys to move your hero
